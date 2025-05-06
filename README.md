@@ -22,3 +22,10 @@ Install needed Python libraries
 `pip install numpy==1.18.4`
 
 `pip install nbconvert` #to avoid syncing cell's output - See https://gist.github.com/33eyes/431e3d432f73371509d176d0dfb95b6e
+
+For W1A3:
+`pip install tensorflow==2.3.0`
+`pip install matplotlib`
+`pip install music21`
+`pip install mido`
+`pip install pydub`
