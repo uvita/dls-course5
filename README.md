@@ -29,3 +29,7 @@ For W1A3:
 `pip install music21`
 `pip install mido`
 `pip install pydub`
+
+For W2A2:
+`pip install emoji`
+`pip install scikit-learn`

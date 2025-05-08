@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 /W2A1/data/glove.6b.50d.txt
+/W2A2/data/glove.6b.50d.txt
