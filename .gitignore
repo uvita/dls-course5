@@ -173,4 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-/W2A1/data/
+/W2A1/data/glove.6b.50d.txt
