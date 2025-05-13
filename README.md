@@ -30,6 +30,17 @@ For W1A3:
 `pip install mido`
 `pip install pydub`
 
+For W2A1: 
+Unzip file W2A1/data/glove.6B.50d.txt.zip
+
 For W2A2:
 `pip install emoji`
 `pip install scikit-learn`
+
+Unzip file W2A1/data/glove.6B.50d.txt.zip
+Copy file W2A1/data/glove.6B.50d.txt to W2A2/data
+
+For W3A1:
+`pip install Faker`
+`pip install tqdm`
+`pip install Babel`
