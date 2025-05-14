@@ -44,3 +44,11 @@ For W3A1:
 `pip install Faker`
 `pip install tqdm`
 `pip install Babel`
+
+For W4A1:
+`pip uninstall tensorflow`
+`pip uninstall Faker`
+`pip uninstall emoji`
+`pip uninstall numpy`
+`pip install numpy==1.19.2`
+`pip install tensorflow==2.4.0`
